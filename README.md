@@ -84,3 +84,8 @@ The captured `docs/__mt/nat_traversal` monitoring document is accepted only when
 Keep request traces private because they can contain account identifiers and network addresses. No private keys, account data, game files, emulator binaries, logs or packet captures are included.
 
 Based on [Nextendo Network](https://github.com/NextendoNetwork)'s service layout and the public NPLN protocol types in [Kinnay's NintendoClients](https://github.com/kinnay/NintendoClients). Original code remains under its license.
+
+## License
+
+Released under the **[PolyForm Shield License 1.0.0](LICENSE)**, source-available: read, use,
+modify, and self-host, but do not use it to provide a product that competes with Nextendo Network.
